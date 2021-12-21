@@ -66,7 +66,7 @@ img{
     background-color: rgba(3, 28, 7, 0.7);
 }
 .cover.orange{
-    background-color: rgba(37, 28, 5, 0.7);
+    background-color: rgba(37, 28, 5, 0.8);
 }
 .cover.red{
     background-color: rgba(35, 3, 2, 0.7);
@@ -97,11 +97,19 @@ img{
     z-index: 4;
     color: #ffffff;
 }
+.main .container{
+    border: solid 3px #a3a3a3;
+    z-index: 9;
+    background: #00000047;
+    padding: 3em 0;
+    border-radius: 5px;
+    box-shadow: 2px 4px 20px black;
+}
 form{
     margin: 0 auto !important;
 }
 p,h1{
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.3em;
     margin: 0;
     line-height: 1;
