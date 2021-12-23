@@ -60,16 +60,16 @@ img{
     background-color: rgba(0,0,0,.7);
 }
 .cover.blue{
-    background-color: rgba(5, 31, 60, 0.7);
+    background-color: rgba(5, 31, 60, 0.6);
 }
 .cover.green{
-    background-color: rgba(3, 28, 7, 0.7);
+    background-color: rgba(3, 28, 7, 0.6);
 }
 .cover.orange{
-    background-color: rgba(37, 28, 5, 0.8);
+    background-color: rgba(37, 28, 5, 0.6);
 }
 .cover.red{
-    background-color: rgba(35, 3, 2, 0.7);
+    background-color: rgba(35, 3, 2, 0.6);
 }
 .blur{
   opacity:0;
@@ -97,19 +97,11 @@ img{
     z-index: 4;
     color: #ffffff;
 }
-.main .container{
-    border: solid 3px #c3c3c3;
-    z-index: 9;
-    background: #00000047;
-    padding: 3em 0;
-    border-radius: 5px;
-    box-shadow: 2px 4px 20px black;
-}
 form{
     margin: 0 auto !important;
 }
 p,h1{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 1.3em;
     margin: 0;
     line-height: 1;
